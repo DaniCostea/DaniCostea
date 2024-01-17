@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaniCostea
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End 
+- 👀 I’m interested in both manual and automation QA, as well as Web Development
+- 🌱 I’m currently learning automation QA
 - 📫 How to reach me:  costea.dani97@gmail.com
 
 <!---
