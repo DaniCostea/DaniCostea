@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DaniCostea.
-- 🗓️ I'm 27 years old.
-- 👀 I’m mostly interested in Web Development with some work in manual QA.
-- 🧑‍💻 Currently working on my Master thesys creating an Web Application.
+- 🗓️ I'm 28 years old.
+- 👀 I’m mostly interested in Quality Assurance with some work in manual QA, currently working on automation testing.
 - 📫 How to reach me:  costea.dani97@gmail.com.
