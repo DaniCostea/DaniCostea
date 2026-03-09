@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DaniCostea.
 - 🗓️ I'm 28 years old.
-- 👀 I’m mostly interested in Quality Assurance with some work in manual QA, currently working on automation testing.
+- 👀 I’m mostly interested in Quality Assurance with some work in manual QA, currently working on learning automation testing.
 - 📫 How to reach me:  costea.dani97@gmail.com.
